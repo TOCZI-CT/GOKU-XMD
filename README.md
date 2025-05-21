@@ -31,6 +31,8 @@
 git clone https://github.com/TOCZI-CT/Goku-Xmd.git
 cd Goku-Xmd
 
+---
+
 ## Play Snake!
 
 Enjoy a quick game of Snake right from your browser!

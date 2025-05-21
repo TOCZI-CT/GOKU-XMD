@@ -10,6 +10,17 @@
 
 ---
 
+## Play Snake!
+
+Enjoy a quick game of Snake right from your browser!
+
+[![Play Snake](https://img.shields.io/badge/Play-Snake-brightgreen?style=for-the-badge)](https://TOCZI-CT.github.io/Goku-Xmd/snake.html)
+
+You can also check out the source code [here](snake.html).
+
+
+---
+
 ## Features
 
 - Auto-reply and chat features
@@ -31,12 +42,3 @@
 git clone https://github.com/TOCZI-CT/Goku-Xmd.git
 cd Goku-Xmd
 
----
-
-## Play Snake!
-
-Enjoy a quick game of Snake right from your browser!
-
-[![Play Snake](https://img.shields.io/badge/Play-Snake-brightgreen?style=for-the-badge)](https://TOCZI-CT.github.io/Goku-Xmd/snake.html)
-
-You can also check out the source code [here](snake.html).
